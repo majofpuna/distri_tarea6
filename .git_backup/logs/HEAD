@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 8c9b7de21c797b7a77018835a3543cf70550fa1c gsmkev <gsmkev@gmail.com> 1760758380 -0300	clone: from https://github.com/majofpuna/distri_tarea6.git
+8c9b7de21c797b7a77018835a3543cf70550fa1c e460cfb0669cd73cf50085fefa7c87605bd3db1c kevin <kevin@example.com> 1760706000 -0300	filter-branch: rewrite
+e460cfb0669cd73cf50085fefa7c87605bd3db1c 0fdb8352f07494f78975a792cd9333a55dab8496 kevin <kevin@example.com> 1760749200 -0300	filter-branch: rewrite
+0fdb8352f07494f78975a792cd9333a55dab8496 72dd6ac945185d8d99e51bbc2e068aa502321a97 kevin <kevin@example.com> 1760751900 -0300	filter-branch: rewrite
+72dd6ac945185d8d99e51bbc2e068aa502321a97 84fa8f5d46fb7840daa2741b19d73a2036a322f2 kevinfpuna <kevinfpuna@users.noreply.github.com> 1760751900 -0300	filter-branch: rewrite
